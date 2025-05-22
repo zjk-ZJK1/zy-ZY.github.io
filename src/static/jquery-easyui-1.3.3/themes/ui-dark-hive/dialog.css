@@ -1,0 +1,32 @@
+.dialog-content {
+  overflow: auto;
+}
+.dialog-toolbar {
+  padding: 2px 5px;
+}
+.dialog-tool-separator {
+  float: left;
+  height: 24px;
+  border-left: 1px solid #aaa;
+  border-right: 1px solid #444;
+  margin: 2px 1px;
+}
+.dialog-button {
+  padding: 5px;
+  text-align: right;
+}
+.dialog-button .l-btn {
+  margin-left: 5px;
+}
+.dialog-toolbar,
+.dialog-button {
+  background: #1A202C;
+  border-width: 1px;
+  border-style: solid;
+}
+.dialog-toolbar {
+  border-color: #2D3748 #2D3748 #666666 #2D3748;
+}
+.dialog-button {
+  border-color: #666666 #2D3748 #2D3748 #2D3748;
+}
